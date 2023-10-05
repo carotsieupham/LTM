@@ -1,0 +1,14 @@
+D:\LTM\consoleTest\consoleTest\bin\Debug\net6.0\consoleTest.exe
+D:\LTM\consoleTest\consoleTest\bin\Debug\net6.0\consoleTest.deps.json
+D:\LTM\consoleTest\consoleTest\bin\Debug\net6.0\consoleTest.runtimeconfig.json
+D:\LTM\consoleTest\consoleTest\bin\Debug\net6.0\consoleTest.dll
+D:\LTM\consoleTest\consoleTest\bin\Debug\net6.0\consoleTest.pdb
+D:\LTM\consoleTest\consoleTest\obj\Debug\net6.0\consoleTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTM\consoleTest\consoleTest\obj\Debug\net6.0\consoleTest.AssemblyInfoInputs.cache
+D:\LTM\consoleTest\consoleTest\obj\Debug\net6.0\consoleTest.AssemblyInfo.cs
+D:\LTM\consoleTest\consoleTest\obj\Debug\net6.0\consoleTest.csproj.CoreCompileInputs.cache
+D:\LTM\consoleTest\consoleTest\obj\Debug\net6.0\consoleTest.dll
+D:\LTM\consoleTest\consoleTest\obj\Debug\net6.0\refint\consoleTest.dll
+D:\LTM\consoleTest\consoleTest\obj\Debug\net6.0\consoleTest.pdb
+D:\LTM\consoleTest\consoleTest\obj\Debug\net6.0\consoleTest.genruntimeconfig.cache
+D:\LTM\consoleTest\consoleTest\obj\Debug\net6.0\ref\consoleTest.dll
