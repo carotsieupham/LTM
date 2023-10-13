@@ -1,0 +1,35 @@
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\bin\Debug\TCPChatClientServerGUI.exe.config
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\bin\Debug\TCPChatClientServerGUI.exe
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\bin\Debug\TCPChatClientServerGUI.pdb
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.Form1.resources
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.Properties.Resources.resources
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.csproj.GenerateResource.Cache
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.exe
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.pdb
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.csprojResolveAssemblyReference.cache
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.FrmClient.resources
+G:\Lap trinh mang -v2\Demo\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.FrmServer.resources
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\bin\Debug\TCPChatClientServerGUI.exe.config
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\bin\Debug\TCPChatClientServerGUI.exe
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\bin\Debug\TCPChatClientServerGUI.pdb
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.csproj.AssemblyReference.cache
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.Form1.resources
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.FrmClient.resources
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.FrmServer.resources
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.Properties.Resources.resources
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.csproj.GenerateResource.cache
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.exe
+C:\Users\Welcome\Downloads\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.pdb
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\bin\Debug\TCPChatClientServerGUI.exe.config
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\bin\Debug\TCPChatClientServerGUI.exe
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\bin\Debug\TCPChatClientServerGUI.pdb
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.csproj.AssemblyReference.cache
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.Form1.resources
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.FrmClient.resources
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.FrmServer.resources
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.Properties.Resources.resources
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.csproj.GenerateResource.cache
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.csproj.CoreCompileInputs.cache
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.exe
+D:\LTM\2251150039_TranMinhTri_MohinhClientSever\DemoTCPChatGUI\TCPChatClientServerGUI\obj\Debug\TCPChatClientServerGUI.pdb
